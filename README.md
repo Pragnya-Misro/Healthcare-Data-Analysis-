@@ -14,7 +14,7 @@ Packages Imported:
 
 5.datetime (via pandas): Used implicitly to convert date columns into datetime format for calculating hospital stay duration.
 
-Key takeaways include:
+Key Insights include:
 
 1.Age Distribution: The data shows that certain age groups are more frequently admitted to hospitals, indicating which populations may require more medical attention.
 
