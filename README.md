@@ -1,4 +1,4 @@
-HEALTHCARE DATA ANALYSIS
+**HEALTHCARE DATA ANALYSIS**
 
 The analysis includes cleaning the dataset, handling missing or inconsistent values, and generating visualizations to explore important variables such as age distribution, billing amounts, length of hospital stay, and gender-based patterns.
 
